@@ -1,0 +1,3 @@
+## This allows any user to run sudo.
+## Please remove after you have a proper sudo setup in place.
+ALL ALL=(ALL) ALL
